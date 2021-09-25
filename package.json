@@ -1,10 +1,11 @@
 {
   "name": "panchoblanco",
   "version": "1.1.0",
+  "description": "Soy un programa que te ayudará a conocer a Pancho Blanco",
   "bin": {
     "panchoblanco": "index.js"
   },
   "dependencies": {
-    "clear-any-console": "^1.16.2"
+    "cli-welcome": "^2.2.2"
   }
 }
