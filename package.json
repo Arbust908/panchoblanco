@@ -16,5 +16,13 @@
     "argentina",
     "argentino",
     "NodeCLI"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "Arbust908/panchoblanco",
+  "author": {
+    "name": "Arbust908",
+    "email": "arbust908@gmail.com",
+    "url": "https://panchoblanco.com"
+  }
 }
